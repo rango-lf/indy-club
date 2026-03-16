@@ -23,21 +23,21 @@ window.INDY_HEADER = `
 
       <div class="nav-divider"></div>
       <div class="nav-section-label">About</div>
-      <a class="nav-link" href="about.html"><span class="nav-arrow">›</span> About Us</a>
-      <a class="nav-link" href="team.html"><span class="nav-arrow">›</span> Meet the Team</a>
-      <a class="nav-link" href="contact.html"><span class="nav-arrow">›</span> Contact</a>
+      <a class="nav-link" href="/pages/about.html"><span class="nav-arrow">›</span> About Us</a>
+      <a class="nav-link" href="/pages/team.html"><span class="nav-arrow">›</span> Meet the Team</a>
+      <a class="nav-link" href="/pages/contact.html"><span class="nav-arrow">›</span> Contact</a>
 
       <div class="nav-divider"></div>
       <div class="nav-section-label">Resources</div>
-      <a class="nav-link" href="resources.html"><span class="nav-arrow">›</span> Academic Resources</a>
-      <a class="nav-link" href="resources.html"><span class="nav-arrow">›</span> Health &amp; Wellness</a>
-      <a class="nav-link" href="resources.html"><span class="nav-arrow">›</span> Mentorship</a>
-      <a class="nav-link" href="resources.html"><span class="nav-arrow">›</span> Lockers</a>
+      <a class="nav-link" href="/pages/resources.html"><span class="nav-arrow">›</span> Academic Resources</a>
+      <a class="nav-link" href="/pages/resources.html"><span class="nav-arrow">›</span> Health &amp; Wellness</a>
+      <a class="nav-link" href="/pages/resources.html"><span class="nav-arrow">›</span> Mentorship</a>
+      <a class="nav-link" href="/pages/resources.html"><span class="nav-arrow">›</span> Lockers</a>
 
       <div class="nav-divider"></div>
       <div class="nav-section-label">More</div>
-      <a class="nav-link" href="events.html"><span class="nav-arrow">›</span> Events</a>
-      <a class="nav-link" href="merch.html"><span class="nav-arrow">›</span> Merch</a>
+      <a class="nav-link" href="/pages/events.html"><span class="nav-arrow">›</span> Events</a>
+      <a class="nav-link" href="/pages/merch.html"><span class="nav-arrow">›</span> Merch</a>
     </nav>
   </div>
 
