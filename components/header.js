@@ -19,7 +19,7 @@ window.INDY_HEADER = `
     <!-- Nav dropdown -->
     <nav class="nav-menu" id="nav-menu">
       <div class="nav-section-label">Navigate</div>
-      <a class="nav-link" href="https://indy-club.vercel.app/"><span class="nav-arrow">›</span> Home</a>
+      <a class="nav-link" href="https://indy.skule.ca/"><span class="nav-arrow">›</span> Home</a>
 
       <div class="nav-divider"></div>
       <div class="nav-section-label">About</div>
